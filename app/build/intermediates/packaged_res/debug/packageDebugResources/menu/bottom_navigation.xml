@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/ic_map"
+        android:title="@string/nav_map" />
+    <item
+        android:id="@+id/nav_steps"
+        android:icon="@drawable/ic_directions_walk"
+        android:title="@string/nav_steps" />
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/ic_history"
+        android:title="@string/nav_history" />
+    <item
+        android:id="@+id/nav_calibrate"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/nav_calibrate" />
+    <item
+        android:id="@+id/nav_guide"
+        android:icon="@drawable/ic_help"
+        android:title="@string/nav_guide" />
+</menu>

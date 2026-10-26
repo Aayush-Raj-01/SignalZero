@@ -1,0 +1,596 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:2:1-145:12
+INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:2:1-145:12
+INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:2:1-145:12
+INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:2:1-145:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\f8049b1c709f5eda7914faa0ce8349b7\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\98badc473ba208ee3857de690304ad40\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4983bb7423a5048e716671f146e4dd87\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4f3090f30ec55039b863982c28319a21\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\2c856b98b712aed0c149c0de2ce36b86\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\53d0d82fee56020dcf9b5de30b2a4e83\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\65381e2e98be6e702720d6945114c9dc\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\416671a4b2bae61e948b5892e1d13a57\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\86758098967ccf025d454794c94cfee3\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\35b5ad9b4eafd6e472b7bb2acbaa620c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\60610930761eae0a630811ad8db63a4f\transformed\fragment-1.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\855263b1cd232e61578eb03b2ef521f0\transformed\jetified-activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\b4ccbf65dff527f288048941a0b109a3\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\e1ce63b417c071cba4817fde629901d4\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\115e4bdd75499c66ff6165ff938b2df9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\9bbe16883668ba3f424ca1c881ee57e2\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\6f96509a5352824000ac714934ad9cce\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\2f088efe480f88025024de441e29c16b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\84f65b15c8eae8dd6d43fa965287b215\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3bf689f5f62e584e60bf6820b1ab7dfa\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\32d3d5826079887010bd194ec70760f3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4e8669f1409478b1355f1ab0e97d2590\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c413b96813ee704b9249d10f21c28d9e\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3ec140b7b090fe6e1fc9f0badddd9737\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\493a5837c3b7c453651f6c97643752bc\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\b6ef05c9b974eb31a9b986795bc91e5b\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\6c27ab30bc6fdcba242cf28d361a3a9c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\bc9feccf3ffec338994630ed21563c5c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\5f19b2684bc2b74601ed5d8f9d377582\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\80e49504543618712323fcd4600d0db1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\de13ba33c420d70341e7753fe26484c6\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\d0561e6b7bf7339b4638eb30df7fa072\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\426e9b3a90b5ef54a6c61859f3b188cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\fb7c62b1ce2d5123197b04da7048e61a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3513ffd89161cb59eb4b72b2fc6cd8fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\646caf3ac7f1681721cf54e0ef2c80a1\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c1915815a90f913344b14a09972369cb\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\d706b3df74d56b048f5a2e349da036cb\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\b8c90954226c2dd18de229ddf0969bbe\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\d955eff829f1c921043c55068a03c7bd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\f409e05d1e14545c570c0341e23b031d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\506552bf7b12a6a00ca1b68c4df9f34e\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:5:5-6:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:6:9-35
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:7:5-8:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:8:9-35
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:11:5-85
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:11:22-82
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:12:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_LOCATION
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:13:5-86
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:13:22-83
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.HIGH_SAMPLING_RATE_SENSORS
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:17:5-85
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:17:22-82
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:19:5-77
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:19:22-74
+application
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:21:5-143:19
+INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:21:5-143:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\f8049b1c709f5eda7914faa0ce8349b7\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\f8049b1c709f5eda7914faa0ce8349b7\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4983bb7423a5048e716671f146e4dd87\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4983bb7423a5048e716671f146e4dd87\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\65381e2e98be6e702720d6945114c9dc\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\65381e2e98be6e702720d6945114c9dc\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\416671a4b2bae61e948b5892e1d13a57\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\416671a4b2bae61e948b5892e1d13a57\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\86758098967ccf025d454794c94cfee3\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\86758098967ccf025d454794c94cfee3\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\35b5ad9b4eafd6e472b7bb2acbaa620c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\35b5ad9b4eafd6e472b7bb2acbaa620c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\426e9b3a90b5ef54a6c61859f3b188cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\426e9b3a90b5ef54a6c61859f3b188cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3513ffd89161cb59eb4b72b2fc6cd8fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3513ffd89161cb59eb4b72b2fc6cd8fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:25:9-40
+	android:networkSecurityConfig
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:28:9-69
+	tools:replace
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:27:9-37
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:29:9-41
+activity#nisargpatel.deadreckoning.activity.SplashActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:31:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:34:13-45
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:36:13-36
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:37:13-47
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:32:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:40:27-74
+activity#nisargpatel.deadreckoning.activity.MainContainerActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:44:9-50:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:47:13-45
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:49:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:46:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:45:13-84
+activity#nisargpatel.deadreckoning.activity.StepCountActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:52:9-58:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:55:13-55
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:57:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:54:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:53:13-80
+activity#nisargpatel.deadreckoning.activity.StepCalibrationActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:59:9-65:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:62:13-63
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:64:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:60:13-61
+activity#nisargpatel.deadreckoning.activity.GraphActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:66:9-72:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:69:13-57
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:71:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:68:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:67:13-76
+activity#nisargpatel.deadreckoning.activity.HeadingActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:73:9-79:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:77:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:76:13-63
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:78:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:75:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:74:13-78
+activity#nisargpatel.deadreckoning.activity.DataCollectActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:80:9-86:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:83:13-67
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:85:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:82:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:81:13-82
+activity#nisargpatel.deadreckoning.activity.UserActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:87:9-93:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:90:13-56
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:92:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:89:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:88:13-75
+activity#nisargpatel.deadreckoning.activity.UserListActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:94:9-101:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:97:13-45
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:100:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:96:13-74
+	android:theme
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:99:13-44
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:95:13-79
+activity#nisargpatel.deadreckoning.activity.DebugToolsActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:102:9-108:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:104:13-63
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:107:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:105:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:103:13-81
+activity#nisargpatel.deadreckoning.activity.HistoryActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:109:9-115:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:113:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:111:13-48
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:114:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:112:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:110:13-78
+activity#nisargpatel.deadreckoning.activity.GuideActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:116:9-122:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:120:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:118:13-46
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:121:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:119:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:117:13-76
+activity#nisargpatel.deadreckoning.activity.CalibrationActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:123:9-129:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:125:13-50
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:128:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:126:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:124:13-82
+activity#nisargpatel.deadreckoning.activity.MainNavigationActivity
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:130:9-136:20
+	android:screenOrientation
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:134:13-49
+	android:label
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:132:13-44
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:135:13-37
+	android:configChanges
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:133:13-74
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:131:13-85
+service#nisargpatel.deadreckoning.service.TrackingService
+ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:138:9-142:56
+	android:enabled
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:140:13-35
+	android:exported
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:141:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:142:13-53
+	android:name
+		ADDED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml:139:13-77
+uses-sdk
+INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\f8049b1c709f5eda7914faa0ce8349b7\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\f8049b1c709f5eda7914faa0ce8349b7\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\98badc473ba208ee3857de690304ad40\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\98badc473ba208ee3857de690304ad40\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4983bb7423a5048e716671f146e4dd87\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4983bb7423a5048e716671f146e4dd87\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4f3090f30ec55039b863982c28319a21\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4f3090f30ec55039b863982c28319a21\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\2c856b98b712aed0c149c0de2ce36b86\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\2c856b98b712aed0c149c0de2ce36b86\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\53d0d82fee56020dcf9b5de30b2a4e83\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\53d0d82fee56020dcf9b5de30b2a4e83\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\65381e2e98be6e702720d6945114c9dc\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\65381e2e98be6e702720d6945114c9dc\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\416671a4b2bae61e948b5892e1d13a57\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\416671a4b2bae61e948b5892e1d13a57\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\86758098967ccf025d454794c94cfee3\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\86758098967ccf025d454794c94cfee3\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\35b5ad9b4eafd6e472b7bb2acbaa620c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\35b5ad9b4eafd6e472b7bb2acbaa620c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\60610930761eae0a630811ad8db63a4f\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\60610930761eae0a630811ad8db63a4f\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\855263b1cd232e61578eb03b2ef521f0\transformed\jetified-activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\855263b1cd232e61578eb03b2ef521f0\transformed\jetified-activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\b4ccbf65dff527f288048941a0b109a3\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\b4ccbf65dff527f288048941a0b109a3\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\e1ce63b417c071cba4817fde629901d4\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\e1ce63b417c071cba4817fde629901d4\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\115e4bdd75499c66ff6165ff938b2df9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\115e4bdd75499c66ff6165ff938b2df9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\9bbe16883668ba3f424ca1c881ee57e2\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\9bbe16883668ba3f424ca1c881ee57e2\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\6f96509a5352824000ac714934ad9cce\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\6f96509a5352824000ac714934ad9cce\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\2f088efe480f88025024de441e29c16b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\2f088efe480f88025024de441e29c16b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\84f65b15c8eae8dd6d43fa965287b215\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\84f65b15c8eae8dd6d43fa965287b215\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3bf689f5f62e584e60bf6820b1ab7dfa\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3bf689f5f62e584e60bf6820b1ab7dfa\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\32d3d5826079887010bd194ec70760f3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\32d3d5826079887010bd194ec70760f3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4e8669f1409478b1355f1ab0e97d2590\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\4e8669f1409478b1355f1ab0e97d2590\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c413b96813ee704b9249d10f21c28d9e\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c413b96813ee704b9249d10f21c28d9e\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3ec140b7b090fe6e1fc9f0badddd9737\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3ec140b7b090fe6e1fc9f0badddd9737\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\493a5837c3b7c453651f6c97643752bc\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\493a5837c3b7c453651f6c97643752bc\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\b6ef05c9b974eb31a9b986795bc91e5b\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\b6ef05c9b974eb31a9b986795bc91e5b\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\6c27ab30bc6fdcba242cf28d361a3a9c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\6c27ab30bc6fdcba242cf28d361a3a9c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\bc9feccf3ffec338994630ed21563c5c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\bc9feccf3ffec338994630ed21563c5c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\5f19b2684bc2b74601ed5d8f9d377582\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\5f19b2684bc2b74601ed5d8f9d377582\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\80e49504543618712323fcd4600d0db1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\80e49504543618712323fcd4600d0db1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\de13ba33c420d70341e7753fe26484c6\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\de13ba33c420d70341e7753fe26484c6\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:5:5-7:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\d0561e6b7bf7339b4638eb30df7fa072\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\d0561e6b7bf7339b4638eb30df7fa072\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\426e9b3a90b5ef54a6c61859f3b188cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\426e9b3a90b5ef54a6c61859f3b188cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\fb7c62b1ce2d5123197b04da7048e61a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\fb7c62b1ce2d5123197b04da7048e61a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3513ffd89161cb59eb4b72b2fc6cd8fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\3513ffd89161cb59eb4b72b2fc6cd8fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\646caf3ac7f1681721cf54e0ef2c80a1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\646caf3ac7f1681721cf54e0ef2c80a1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c1915815a90f913344b14a09972369cb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c1915815a90f913344b14a09972369cb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\d706b3df74d56b048f5a2e349da036cb\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\d706b3df74d56b048f5a2e349da036cb\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\b8c90954226c2dd18de229ddf0969bbe\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\b8c90954226c2dd18de229ddf0969bbe\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\d955eff829f1c921043c55068a03c7bd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\d955eff829f1c921043c55068a03c7bd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\f409e05d1e14545c570c0341e23b031d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\f409e05d1e14545c570c0341e23b031d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\506552bf7b12a6a00ca1b68c4df9f34e\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\506552bf7b12a6a00ca1b68c4df9f34e\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rashmalai\Desktop\JAVA\Dead-Reckoning-Pro-main\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\416671a4b2bae61e948b5892e1d13a57\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\416671a4b2bae61e948b5892e1d13a57\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\416671a4b2bae61e948b5892e1d13a57\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\416671a4b2bae61e948b5892e1d13a57\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\35b5ad9b4eafd6e472b7bb2acbaa620c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\35b5ad9b4eafd6e472b7bb2acbaa620c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\35b5ad9b4eafd6e472b7bb2acbaa620c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\426e9b3a90b5ef54a6c61859f3b188cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\426e9b3a90b5ef54a6c61859f3b188cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\826b9424791477dd7f4ff5690740a509\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\010cb8e7b566aee1d4a43327dac8076d\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#nisargpatel.deadreckoning.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#nisargpatel.deadreckoning.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\01b44dbb889ecfdd14c038185ebb6b9d\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:9:5-12:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:10:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:15:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:18:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:21:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.20] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\acc8888bd48f480418d376ffd36b7653\transformed\jetified-osmdroid-android-6.1.20\AndroidManifest.xml:24:9-45
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Rashmalai\.gradle\caches\8.9\transforms\c4755ee3c349a7fa445ba89239ab1015\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

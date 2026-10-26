@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\menu_menu_heading.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\menu\\menu_heading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_add_location.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_add_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_item_guide.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\item_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_map.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_map.xml"
+    },
+    {
+        "merged": "nisargpatel.deadreckoning.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "nisargpatel.deadreckoning.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_main_navigation.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_main_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_gps_lost.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_gps_lost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\menu_menu_user.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\menu\\menu_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_numslock_launcher_mono.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_numslock_launcher_mono.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\menu_menu_data_collection.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\menu\\menu_data_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_step_counter.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_step_counter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_bg_gps_status.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\bg_gps_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_guide.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_arrow_left.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "nisargpatel.deadreckoning.app-debug-35:/drawable_ic_signalzero_launcher_mono.xml.flat",
+        "source": "nisargpatel.deadreckoning.app-main-37:/drawable/ic_signalzero_launcher_mono.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_stop.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_rasta_pakad_launcher_fg.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_rasta_pakad_launcher_fg.xml"
+    },
+    {
+        "merged": "nisargpatel.deadreckoning.app-debug-35:/layout_fragment_map.xml.flat",
+        "source": "nisargpatel.deadreckoning.app-main-37:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "nisargpatel.deadreckoning.app-debug-35:/drawable_ic_signalzero_logo.xml.flat",
+        "source": "nisargpatel.deadreckoning.app-main-37:/drawable/ic_signalzero_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\menu_menu_step_counter.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\menu\\menu_step_counter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_pause_black_24dp.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_pause_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_arrow_up.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_arrow_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\menu_menu_graph.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\menu\\menu_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\menu_menu_step_calibration.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\menu\\menu_step_calibration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_dialog_marker.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\dialog_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_rasta_pakad_launcher_mono.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_rasta_pakad_launcher_mono.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_numslock_logo.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_numslock_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_turn_around.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_turn_around.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_step_calibration.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_step_calibration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\menu_menu_user_list.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\menu\\menu_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_debug_tools.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_debug_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_turn_left.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_turn_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_play_arrow_black_24dp.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_play_arrow_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_calibration.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_calibration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_heading.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_heading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_compass.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_compass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_directions_walk.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_directions_walk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_rasta_pakad_logo.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_rasta_pakad_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_main_container.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_main_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_item_trip.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\item_trip.xml"
+    },
+    {
+        "merged": "nisargpatel.deadreckoning.app-debug-35:/drawable_ic_signalzero_launcher_fg.xml.flat",
+        "source": "nisargpatel.deadreckoning.app-main-37:/drawable/ic_signalzero_launcher_fg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_fragment_steps.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\fragment_steps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_dialog_user_details.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\dialog_user_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_numslock_launcher_fg.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_numslock_launcher_fg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_data_collect.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_data_collect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\color_bottom_nav_color.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\color\\bottom_nav_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\menu_menu_debug_tools.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\menu\\menu_debug_tools.xml"
+    },
+    {
+        "merged": "nisargpatel.deadreckoning.app-debug-35:/layout_activity_splash.xml.flat",
+        "source": "nisargpatel.deadreckoning.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\drawable_ic_gps.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\drawable\\ic_gps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-debug-35:\\layout_activity_graph.xml.flat",
+        "source": "C:\\Users\\Rashmalai\\.gradle\\daemon\\8.9\\nisargpatel.deadreckoning.app-main-37:\\layout\\activity_graph.xml"
+    }
+]
